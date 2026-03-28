@@ -1,8 +1,11 @@
 # lorem-gen
-Generate lorem ipsum placeholder text. Zero dependencies.
+
+Generate lorem ipsum placeholder text.
+
+Zero dependencies. Python 3.8+.
+
 ## Usage
-```
-python3 lorem_gen.py paragraphs 5
-python3 lorem_gen.py sentences 10
-python3 lorem_gen.py words 50
+
+```bash
+python3 lorem_gen.py --help
 ```

@@ -1,11 +1,14 @@
 # lorem-gen
 
-Generate lorem ipsum placeholder text.
-
-Zero dependencies. Python 3.8+.
+Lorem ipsum text generator
 
 ## Usage
 
 ```bash
 python3 lorem_gen.py --help
 ```
+
+## Features
+
+- Zero dependencies (Python 3.8+)
+- Single file implementation

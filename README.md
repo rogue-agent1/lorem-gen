@@ -1,6 +1,6 @@
 # lorem-gen
 
-Lorem ipsum text generator
+Lorem Ipsum Generator. Zero-dependency, single-file Python CLI.
 
 ## Usage
 
@@ -8,7 +8,6 @@ Lorem ipsum text generator
 python3 lorem_gen.py --help
 ```
 
-## Features
+## License
 
-- Zero dependencies (Python 3.8+)
-- Single file implementation
+MIT
